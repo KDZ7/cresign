@@ -1,0 +1,36 @@
+C:\Users\Kim Davy\Desktop\prog\C#\cresign\bin\Debug\net6.0\cresign.exe
+C:\Users\Kim Davy\Desktop\prog\C#\cresign\bin\Debug\net6.0\cresign.deps.json
+C:\Users\Kim Davy\Desktop\prog\C#\cresign\bin\Debug\net6.0\cresign.runtimeconfig.json
+C:\Users\Kim Davy\Desktop\prog\C#\cresign\bin\Debug\net6.0\cresign.dll
+C:\Users\Kim Davy\Desktop\prog\C#\cresign\bin\Debug\net6.0\cresign.pdb
+C:\Users\Kim Davy\Desktop\prog\C#\cresign\bin\Debug\net6.0\Renci.SshNet.dll
+C:\Users\Kim Davy\Desktop\prog\C#\cresign\bin\Debug\net6.0\SshNet.Security.Cryptography.dll
+C:\Users\Kim Davy\Desktop\prog\C#\cresign\obj\Debug\net6.0\cresign.csproj.AssemblyReference.cache
+C:\Users\Kim Davy\Desktop\prog\C#\cresign\obj\Debug\net6.0\cresign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kim Davy\Desktop\prog\C#\cresign\obj\Debug\net6.0\cresign.AssemblyInfoInputs.cache
+C:\Users\Kim Davy\Desktop\prog\C#\cresign\obj\Debug\net6.0\cresign.AssemblyInfo.cs
+C:\Users\Kim Davy\Desktop\prog\C#\cresign\obj\Debug\net6.0\cresign.csproj.CoreCompileInputs.cache
+C:\Users\Kim Davy\Desktop\prog\C#\cresign\obj\Debug\net6.0\cresign.csproj.CopyComplete
+C:\Users\Kim Davy\Desktop\prog\C#\cresign\obj\Debug\net6.0\cresign.dll
+C:\Users\Kim Davy\Desktop\prog\C#\cresign\obj\Debug\net6.0\refint\cresign.dll
+C:\Users\Kim Davy\Desktop\prog\C#\cresign\obj\Debug\net6.0\cresign.pdb
+C:\Users\Kim Davy\Desktop\prog\C#\cresign\obj\Debug\net6.0\cresign.genruntimeconfig.cache
+C:\Users\Kim Davy\Desktop\prog\C#\cresign\obj\Debug\net6.0\ref\cresign.dll
+C:\Users\Kim Davy\Desktop\Projet CNC\cresign-resign\cresign\bin\Debug\net6.0\cresign.exe
+C:\Users\Kim Davy\Desktop\Projet CNC\cresign-resign\cresign\bin\Debug\net6.0\cresign.deps.json
+C:\Users\Kim Davy\Desktop\Projet CNC\cresign-resign\cresign\bin\Debug\net6.0\cresign.runtimeconfig.json
+C:\Users\Kim Davy\Desktop\Projet CNC\cresign-resign\cresign\bin\Debug\net6.0\cresign.dll
+C:\Users\Kim Davy\Desktop\Projet CNC\cresign-resign\cresign\bin\Debug\net6.0\cresign.pdb
+C:\Users\Kim Davy\Desktop\Projet CNC\cresign-resign\cresign\bin\Debug\net6.0\Renci.SshNet.dll
+C:\Users\Kim Davy\Desktop\Projet CNC\cresign-resign\cresign\bin\Debug\net6.0\SshNet.Security.Cryptography.dll
+C:\Users\Kim Davy\Desktop\Projet CNC\cresign-resign\cresign\obj\Debug\net6.0\cresign.csproj.AssemblyReference.cache
+C:\Users\Kim Davy\Desktop\Projet CNC\cresign-resign\cresign\obj\Debug\net6.0\cresign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kim Davy\Desktop\Projet CNC\cresign-resign\cresign\obj\Debug\net6.0\cresign.AssemblyInfoInputs.cache
+C:\Users\Kim Davy\Desktop\Projet CNC\cresign-resign\cresign\obj\Debug\net6.0\cresign.AssemblyInfo.cs
+C:\Users\Kim Davy\Desktop\Projet CNC\cresign-resign\cresign\obj\Debug\net6.0\cresign.csproj.CoreCompileInputs.cache
+C:\Users\Kim Davy\Desktop\Projet CNC\cresign-resign\cresign\obj\Debug\net6.0\cresign.csproj.CopyComplete
+C:\Users\Kim Davy\Desktop\Projet CNC\cresign-resign\cresign\obj\Debug\net6.0\cresign.dll
+C:\Users\Kim Davy\Desktop\Projet CNC\cresign-resign\cresign\obj\Debug\net6.0\refint\cresign.dll
+C:\Users\Kim Davy\Desktop\Projet CNC\cresign-resign\cresign\obj\Debug\net6.0\cresign.pdb
+C:\Users\Kim Davy\Desktop\Projet CNC\cresign-resign\cresign\obj\Debug\net6.0\cresign.genruntimeconfig.cache
+C:\Users\Kim Davy\Desktop\Projet CNC\cresign-resign\cresign\obj\Debug\net6.0\ref\cresign.dll
