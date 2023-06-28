@@ -1,7 +1,8 @@
 # cresign
 cresign -> resign.sh (IPA Signature)
 
-Cresign is a software developed in C# that allows communication with a shell script called "resign.sh" (link: https://github.com/KDZ7/signature-ipa). The "resign.sh" script should be placed in a specific folder on a remote Mac machine. Cresign facilitates the automatic launching of "resign.sh" by calling it from any Windows/Linux machine.
+Cresign is a software developed in C# that allows communication with a shell script called "resign.sh" (link: https://github.com/KDZ7/signature-ipa). 
+The "resign.sh" script should be placed in a specific folder on a remote Mac machine. Cresign facilitates the automatic launching of "resign.sh" by calling it from any Windows/Linux machine.
 
 The usefulness of using Cresign lies in its portability on Windows/Linux and its ability to easily launch an IPA resigning process on a remote Mac machine. It is particularly useful for automating the IPA resigning process.
 
